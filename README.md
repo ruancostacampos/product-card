@@ -6,4 +6,4 @@ específico para cada dispositivo.
 
 # Preview
 
-Você pode a solução rodando aqui: https://ruancostacampos.github.io/product-card/
+Você pode ver a solução rodando aqui: https://ruancostacampos.github.io/product-card/
